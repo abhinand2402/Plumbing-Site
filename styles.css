@@ -347,3 +347,17 @@ textarea {
     font-size: 16px;
     color: #333;
 }
+
+.footer-middle {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Footer middle section adjustments */
+.footer-middle img {
+    width: 220px;
+    height: auto;
+}
+
